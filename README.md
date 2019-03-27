@@ -5,4 +5,5 @@ Types:
   Menu
   Advertisements (Items)
   AdvertisementCategories
+  Images
   Users
